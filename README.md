@@ -1,19 +1,19 @@
-<h1 align="center"><b>Servo Controller Board</b></h1>
+﻿<h1 align="center"><b>Servo Controller Board</b></h1>
 
 Este é um projeto de uma placa para controle de até 16 servo-motores desenvolvida no software *"Altium Designer"</i>* baseado no *Arduíno Uno* e no *Módulo PCA9685*.
 A placa pode ser programada pela *"Arduino IDE"*, onde ela é reconhecida como *"Arduino UNO"*.
 O driver para os servo-motores é baseado no *Módulo PCA9685*, que recebe via protocolo I2C a posição de cada servo.
 A placa também possuí os conectores padrão Arduíno, podendo desta forma utilizar vários shlieds disponíveis no mercado.
 
-<p align="center"><img src="/Imagens/1placa3D.png" width="500"/></p>
+<p align="center"><img src="/Documentacao/Placa3D.png" width="500"/></p>
 <p align="center"><i>Servo Controller Board [Arduino Uno + Módulo PCA9685]</i></p>
 
 
 Conteúdo do repositório
 -------------------
-* **/Documentação** - Relatório completo do projeto em PDF
-* **/Hardware** - Arquivos fontes: Esquemático, PCB e bibliotecas dos componentes (arquivos Altium)
-* **/Produção** - BOM e arquivos gerbers
+* **/Arquivos-fontes** - Esquemático, PCB e bibliotecas dos componentes (arquivos Altium)
+* **/Documentacao** - Relatório completo do projeto em PDF
+* **/Producao** - BOM e arquivos gerbers
 
 Links de referência do projeto
 -------------------

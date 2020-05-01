@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Servo_Control.PcbDoc   30/04/2020  23:24:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : Servo_Control-RoundHoles.TXT
+ASCII SlotHoles File : Servo_Control-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             122       PTH        20.28inch (515.06mm)
+T2      24mil (0.6mm)                                             Round             2         PTH        0.16inch (4.00mm)
+T3      26mil (0.66mm)                                            Slot              2         PTH        0.52inch (13.15mm)
+T4      39mil (1mm)                                               Round             14        PTH        3.66inch (93.08mm)
+T5      43mil (1.1mm)                                             Round             101       PTH        19.86inch (504.47mm)
+T6      47mil (1.2mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T7      63mil (1.6mm)                                             Round             4         PTH        2.32inch (58.90mm)
+T8      126mil (3.2mm)                                            Round             3         PTH        3.16inch (80.26mm)
+T9      126mil (3.2mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              251
+
+Total Processing Time (hh:mm:ss) : 00:00:00
